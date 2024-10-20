@@ -1,2 +1,12 @@
-requests
-pygobject
+certifi==2024.8.30 ; python_version >= "3.12" and python_version < "4.0"
+charset-normalizer==3.4.0 ; python_version >= "3.12" and python_version < "4.0"
+idna==3.10 ; python_version >= "3.12" and python_version < "4.0"
+pycairo==1.27.0 ; python_version >= "3.12" and python_version < "4.0"
+pygobject==3.50.0 ; python_version >= "3.12" and python_version < "4.0"
+pyqt5-qt5==5.15.15 ; python_version >= "3.12" and python_version < "4.0"
+pyqt5-sip==12.15.0 ; python_version >= "3.12" and python_version < "4.0"
+pyqt5==5.15.11 ; python_version >= "3.12" and python_version < "4.0"
+pyqtwebengine-qt5==5.15.15 ; python_version >= "3.12" and python_version < "4.0"
+pyqtwebengine==5.15.7 ; python_version >= "3.12" and python_version < "4.0"
+requests==2.32.3 ; python_version >= "3.12" and python_version < "4.0"
+urllib3==2.2.3 ; python_version >= "3.12" and python_version < "4.0"
